@@ -23,8 +23,7 @@ public class SampleFrame extends JFrame
 		this.setContentPane(appPanel);
 		this.setSize(1000, 500);
 		this.setTitle("Title for my 2nd gooey");
-		this.setResizable(true);
-
+		this.setResizable(false);
 		this.setVisible(true);
 	}
 }
