@@ -45,7 +45,7 @@ public class SamplePanel extends JPanel
 		{
 			public void actionPerformed(ActionEvent mouseClick)
 			{
-				
+				changeBackgroundColor();
 			}
 		});
 	}
